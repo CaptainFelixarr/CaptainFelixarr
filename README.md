@@ -7,4 +7,3 @@
    <a href="https://github.com/captainfelixarr" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://twitter.com/captainfelixar" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-[Discord Presence](https://lanyard-profile-readme.vercel.app/api/692411581572841544)](https://discord.com/users/692411581572841544)
