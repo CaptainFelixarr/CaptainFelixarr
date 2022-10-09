@@ -8,7 +8,6 @@
    <a href="https://twitter.com/captainfelixar" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <div align="center">
-   <a href="https://discord.com/users/670552183703470080" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/670552183703470080?bg=111111">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/670552183703470080?theme=dark&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/670552183703470080)
    </a>
 </div>
