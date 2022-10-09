@@ -7,7 +7,4 @@
    <a href="https://github.com/captainfelixarr" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://twitter.com/captainfelixar" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-<div align="center">
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/670552183703470080?theme=dark&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/670552183703470080)
-   </a>
-</div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/692411581572841544)](https://discord.com/users/692411581572841544)
