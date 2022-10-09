@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1026868787481428019/1028722390773014538/banner_1.png?raw=true">
+<img src="https://media.discordapp.net/attachments/1026868787481428019/1028722390773014538/banner_1.png">
 <p align="center">
    <a href="https://discord.com/users/670552183703470080" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/captainfelixar" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
